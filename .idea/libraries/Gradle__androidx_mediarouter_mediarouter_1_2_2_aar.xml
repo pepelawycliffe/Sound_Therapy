@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.mediarouter:mediarouter:1.2.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd13dfed12e5f7a8ec1580b61215c5eb/mediarouter-1.2.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd13dfed12e5f7a8ec1580b61215c5eb/mediarouter-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd13dfed12e5f7a8ec1580b61215c5eb/mediarouter-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd13dfed12e5f7a8ec1580b61215c5eb/mediarouter-1.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.mediarouter/mediarouter/1.2.2/26ede77329ab873aa3d7f0f1f26714f9070e958a/mediarouter-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

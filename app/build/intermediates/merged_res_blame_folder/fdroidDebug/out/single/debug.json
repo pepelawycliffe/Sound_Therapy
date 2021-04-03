@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_library.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_saved_presets.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_saved_presets.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_appintro_sound_library.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_appintro_sound_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_enter_left.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\anim\\enter_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_preset_shortcut_foreground.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_preset_shortcut_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_feedback.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_duration_picker_view.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\duration_picker_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_wake_up_timer.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_wake_up_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_info.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_support_development.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_support_development.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_launcher_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_launcher_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_shuffle.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_shuffle.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_pause_to_play.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_pause_to_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_about_version.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_about_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_preset_shortcut.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_preset_shortcut.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_main_activity.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_sound_list_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sound_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_appintro_chromecast.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_appintro_chromecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_add.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_preset_shortcut.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-mdpi\\ic_preset_shortcut.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_theme.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_preset_list_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\preset_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_app_intro_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\app_intro_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-anydpi-v26_ic_preset_shortcut.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_preset_shortcut.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_about_copyright.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_about_copyright.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_noti_close.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_noti_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_appintro_preset.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_appintro_preset.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_help.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_report.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_wake_up_timer_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\wake_up_timer_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_info_48dp.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_info_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_appintro_sleep_timer.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_appintro_sleep_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_preset_shortcut.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_preset_shortcut.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_preset_shortcut.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_preset_shortcut.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_play_stop_circled_toggle.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_play_stop_circled_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_rate.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_expand.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_enter_right.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\anim\\enter_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_play_to_stop_circled.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_play_to_stop_circled.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_support_development_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\support_development_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_exit_left.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\anim\\exit_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_preset_list_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\preset_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_popup_menu_bg.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\popup_menu_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_volume.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_fragment__text_input.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\dialog_fragment__text_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_exit_right.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\anim\\exit_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_about_sound.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_about_sound.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_about_translation.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_about_translation.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_noti_pause.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_noti_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_random_preset_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\random_preset_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_save.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_preset.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\menu\\preset.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_sound_group_list_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sound_group_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_donate_opencollective.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\fdroid\\res\\drawable\\ic_donate_opencollective.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_app_banner.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\app_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_fragment__base.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\dialog_fragment__base.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_sound_library_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sound_library_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_noti_play.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_noti_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_preset_shortcut.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-hdpi\\ic_preset_shortcut.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_nav_sleep_timer.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_nav_sleep_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_play_to_pause.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_play_to_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_time_period.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_time_period.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_action_stop_to_play_circled.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\drawable\\ic_action_stop_to_play_circled.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_sleep_timer_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sleep_timer_fragment.xml"
+    }
+]

@@ -1,0 +1,30 @@
+com/github/ashutoshgngwr/noice/databinding/DialogFragmentBaseBinding.java
+ com.github.ashutoshgngwr.noice.databinding.DialogFragmentBaseBinding
+com/github/ashutoshgngwr/noice/databinding/SoundListItemBinding.java
+ com.github.ashutoshgngwr.noice.databinding.SoundListItemBinding
+com/github/ashutoshgngwr/noice/databinding/AppIntroFragmentBinding.java
+ com.github.ashutoshgngwr.noice.databinding.AppIntroFragmentBinding
+com/github/ashutoshgngwr/noice/databinding/WakeUpTimerFragmentBinding.java
+ com.github.ashutoshgngwr.noice.databinding.WakeUpTimerFragmentBinding
+com/github/ashutoshgngwr/noice/databinding/DurationPickerViewBinding.java
+ com.github.ashutoshgngwr.noice.databinding.DurationPickerViewBinding
+com/github/ashutoshgngwr/noice/databinding/SoundLibraryFragmentBinding.java
+ com.github.ashutoshgngwr.noice.databinding.SoundLibraryFragmentBinding
+com/github/ashutoshgngwr/noice/databinding/SupportDevelopmentFragmentBinding.java
+ com.github.ashutoshgngwr.noice.databinding.SupportDevelopmentFragmentBinding
+com/github/ashutoshgngwr/noice/databinding/PresetListFragmentBinding.java
+ com.github.ashutoshgngwr.noice.databinding.PresetListFragmentBinding
+com/github/ashutoshgngwr/noice/databinding/MainActivityBinding.java
+ com.github.ashutoshgngwr.noice.databinding.MainActivityBinding
+com/github/ashutoshgngwr/noice/databinding/SoundGroupListItemBinding.java
+ com.github.ashutoshgngwr.noice.databinding.SoundGroupListItemBinding
+com/github/ashutoshgngwr/noice/BuildConfig.java
+ com.github.ashutoshgngwr.noice.BuildConfig
+com/github/ashutoshgngwr/noice/databinding/SleepTimerFragmentBinding.java
+ com.github.ashutoshgngwr.noice.databinding.SleepTimerFragmentBinding
+com/github/ashutoshgngwr/noice/databinding/DialogFragmentTextInputBinding.java
+ com.github.ashutoshgngwr.noice.databinding.DialogFragmentTextInputBinding
+com/github/ashutoshgngwr/noice/databinding/RandomPresetFragmentBinding.java
+ com.github.ashutoshgngwr.noice.databinding.RandomPresetFragmentBinding
+com/github/ashutoshgngwr/noice/databinding/PresetListItemBinding.java
+ com.github.ashutoshgngwr.noice.databinding.PresetListItemBinding

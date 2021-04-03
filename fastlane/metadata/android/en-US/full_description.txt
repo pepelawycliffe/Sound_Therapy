@@ -1,0 +1,35 @@
+For a lot of people, a little background noise is helpful to calm down and focus. In some cases, it's also a boost to productivity. Background noise (ambience) can also help minimize the effects of stress.
+
+Noice is an app that allows you to create a customised ambience using clips from environmental noise sources. Create your perfect surroundings by combining different sounds to drown out distractions so you can focus on your work, or generate serene, peaceful environments that encourage you to fall asleep.
+
+<b>Features</b>
+- 35 recorded noises
+- Google Cast (Chromecast) enabled [Play Store release only]
+- Auto sleep timer
+- Wake-up timer (Alarm Clock)
+- Generate random mixes
+- Make a customised mix
+- Save your favourite mixes
+- Play alongside other music players
+- Individual volume control for each noise source
+- Offline playback
+- Light and dark app theme variants
+
+<b>Noise library</b>
+- Life set (birds, crickets, wolf, human heartbeat, etc.)
+- Forest set (bonfire, night, wind, palm trees, etc.)
+- Monsoon set (rain, thunders)
+- Teleportation set (coffee shop, library, office, seaside, riverbank, etc.)
+- Vehicle set (moving train, in-flight, creaking ship, electric car, etc.)
+- Raw noise (white, pink, brownian)
+
+<b>Permissions</b>
+- <b>prevent device from sleeping</b>: to keep device CPU awake during playback
+- <b>run foreground service</b>: to run the player process (different than UI)
+- <b>run at startup</b>: to ensure that wake-up timers persist across reboots
+- <b>full network access</b>: to enable Chromecast and financial contributions
+- <b>view network connections</b>: added by a dependency, currently not in use
+- <b>Google Play billing service</b>: to enable financial contributions for supporting development
+
+Noice is free and open-source software.
+https://github.com/ashutoshgngwr/noice

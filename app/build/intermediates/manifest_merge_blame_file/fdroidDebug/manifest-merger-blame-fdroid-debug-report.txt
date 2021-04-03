@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.ashutoshgngwr.noice.debug"
+4    android:versionCode="37"
+5    android:versionName="0.15.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <!-- screengrab-permissions -->
+12
+13
+14    <!-- Allows unlocking your device and activating its screen so UI tests can succeed -->
+15    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+15-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:7:3-73
+15-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:7:20-70
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:11:3-66
+16-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:11:20-63
+17
+18    <!-- Allows for storing and retrieving screenshots -->
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:11:3-79
+19-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:11:20-76
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:12:3-78
+20-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:12:20-75
+21
+22    <!-- Allows changing locales -->
+23    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+23-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:15:3-17:43
+23-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\debug\AndroidManifest.xml:16:5-59
+24
+25    <uses-feature
+25-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:5:3-7:31
+26        android:name="android.hardware.audio.output"
+26-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:6:5-49
+27        android:required="true" />
+27-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:7:5-28
+28
+29    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+29-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:9:3-75
+29-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:9:20-72
+30    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+30-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:13:3-79
+30-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:13:20-76
+31    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+31-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:15:3-78
+31-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:15:20-75
+32    <uses-permission android:name="android.permission.REORDER_TASKS" />
+32-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:25:5-72
+32-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:25:22-69
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- /screengrab-permissions -->
+33-->[com.google.android.exoplayer:exoplayer-core:2.11.8] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\d2237d31adbf17aaa30a4f0a7575f88b\jetified-exoplayer-core-2.11.8\AndroidManifest.xml:24:5-79
+33-->[com.google.android.exoplayer:exoplayer-core:2.11.8] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\d2237d31adbf17aaa30a4f0a7575f88b\jetified-exoplayer-core-2.11.8\AndroidManifest.xml:24:22-76
+34    <application
+34-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:17:3-54:17
+35        android:name="com.github.ashutoshgngwr.noice.Application"
+35-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:18:5-32
+36        android:allowBackup="true"
+36-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:19:5-31
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.3.2] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\d2a4b339fab482eac6f3e5d951fa0f3e\core-1.3.2\AndroidManifest.xml:24:18-86
+38        android:debuggable="true"
+39        android:icon="@mipmap/ic_launcher"
+39-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:20:5-39
+40        android:label="@string/app_name"
+40-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:21:5-37
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:22:5-50
+42        android:supportsRtl="true"
+42-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:23:5-31
+43        android:testOnly="true"
+44        android:theme="@style/Theme.App" >
+44-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:24:5-37
+45        <activity android:name="com.github.ashutoshgngwr.noice.MainActivity" >
+45-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:27:5-34:16
+45-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:27:15-43
+46            <intent-filter>
+46-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:29:7-32:23
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:9-61
+47-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:17-58
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:31:9-69
+49-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:31:19-66
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:36:5-38:69
+53            android:name="com.github.ashutoshgngwr.noice.AppIntroActivity"
+53-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:37:7-39
+54            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+54-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:38:7-66
+55        <activity
+55-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:40:5-42:43
+56            android:name="com.github.ashutoshgngwr.noice.ShortcutHandlerActivity"
+56-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:41:7-46
+57            android:excludeFromRecents="true" />
+57-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:42:7-40
+58
+59        <service android:name="com.github.ashutoshgngwr.noice.MediaPlayerService" />
+59-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:44:5-51
+59-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:44:14-48
+60
+61        <receiver android:name="com.github.ashutoshgngwr.noice.WakeUpTimerManager$BootReceiver" >
+61-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:46:5-52:16
+61-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:46:15-62
+62            <intent-filter>
+62-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:48:7-50:23
+63                <action android:name="android.intent.action.BOOT_COMPLETED" />
+63-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:49:9-71
+63-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:49:17-68
+64            </intent-filter>
+65        </receiver>
+66
+67        <activity
+67-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:28:9-37:20
+68            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
+68-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:29:13-96
+69            android:exported="true"
+69-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:30:13-36
+70            android:multiprocess="true"
+70-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:31:13-40
+71            android:taskAffinity=""
+71-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:32:13-36
+72            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
+72-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:33:13-78
+73            <intent-filter>
+73-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:34:13-36:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:9-61
+74-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:17-58
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:27:9-33:20
+78            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+78-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:28:13-99
+79            android:theme="@android:style/Theme" >
+79-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:29:13-49
+80            <intent-filter>
+80-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:34:13-36:29
+81                <action android:name="android.intent.action.MAIN" />
+81-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:9-61
+81-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:17-58
+82            </intent-filter>
+83        </activity>
+84        <activity
+84-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:34:9-40:20
+85            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+85-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:35:13-95
+86            android:theme="@android:style/Theme" >
+86-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:36:13-49
+87            <intent-filter>
+87-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:34:13-36:29
+88                <action android:name="android.intent.action.MAIN" />
+88-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:9-61
+88-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:17-58
+89            </intent-filter>
+90        </activity>
+91        <activity
+91-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:41:9-47:20
+92            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+92-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:42:13-103
+93            android:theme="@android:style/Theme.Dialog" >
+93-->[androidx.test:core:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2fb554576c7318a6b160c2b2206fdf1b\jetified-core-1.3.0\AndroidManifest.xml:43:13-56
+94            <intent-filter>
+94-->[androidx.fragment:fragment-testing:1.3.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\222d6d18f9c40c5c2459ab2df0b165ab\jetified-fragment-testing-1.3.0\AndroidManifest.xml:34:13-36:29
+95                <action android:name="android.intent.action.MAIN" />
+95-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:9-61
+95-->C:\Users\wycliffe pepela\AndroidStudioProjects\noice\app\src\main\AndroidManifest.xml:30:17-58
+96            </intent-filter>
+97        </activity>
+98    </application>
+99
+100</manifest>

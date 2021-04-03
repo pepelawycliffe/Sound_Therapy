@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-2\\files-2.1\\28956719a1e2a9058499a179189e2b3a\\jetified-android-about-page-1.2.5\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,180,249,317,392,456,520",
+                        "endColumns": "57,66,68,67,74,63,63,70",
+                        "endOffsets": "108,175,244,312,387,451,515,586"
+                    }
+                }
+            ]
+        }
+    ]
+}

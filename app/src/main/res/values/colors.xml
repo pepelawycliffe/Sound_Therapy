@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#1eb980</color>
+  <color name="colorPrimaryDark">#168a60</color>
+  <color name="colorAccent">#1eb980</color>
+  <color name="colorStatusBar">#17171d</color>
+  <color name="colorActionBar">#1b1b22</color>
+  <color name="colorBackground">#f8fAf9</color>
+  <color name="colorCardBackground">#fdfdfd</color>
+  <color name="colorPopupBackground">#fefefe</color>
+  <!-- Following is needed because AboutPage doesn't have any way to define custom style.
+  This is supposed to override its default background color -->
+  <color name="about_background_color">@color/colorBackground</color>
+  <color name="ic_launcher_background">#FFFFFF</color>
+  <color name="ic_preset_shortcut_background">#FFFFFF</color>
+
+  <!-- app intro colors -->
+  <color name="appintro_slide_0__background">#202028</color>
+  <color name="appintro_slide_1__background">#1F7A8C</color>
+  <color name="appintro_slide_2__background">#5946D8</color>
+  <color name="appintro_slide_3__background">#A63D40</color>
+  <color name="appintro_slide_4__background">#684488</color>
+  <color name="appintro_slide_5__background">@color/colorPrimaryDark</color>
+  <color name="appintro__text_color">#EFEFEF</color>
+</resources>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_fragment__text_input.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\dialog_fragment__text_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\duration_picker_view.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\duration_picker_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\support_development_fragment.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\support_development_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\random_preset_fragment.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\random_preset_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\sound_group_list_item.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sound_group_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\preset_list_fragment.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\preset_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\sleep_timer_fragment.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sleep_timer_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_fragment__base.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\dialog_fragment__base.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\app_intro_fragment.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\app_intro_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\sound_library_fragment.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sound_library_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\wake_up_timer_fragment.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\wake_up_timer_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\preset_list_item.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\preset_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\main_activity.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\sound_list_item.xml",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\src\\main\\res\\layout\\sound_list_item.xml"
+    }
+]

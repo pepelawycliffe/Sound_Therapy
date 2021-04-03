@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-bn-rIN\\values-bn-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-2\\files-2.1\\1ba38f062fa2cea402deec5eff470199\\jetified-AppIntro-6.1.0\\res\\values-bn-rIN\\values-bn-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,111,169,239,297",
+                        "endColumns": "55,57,69,57,61",
+                        "endOffsets": "106,164,234,292,354"
+                    }
+                }
+            ]
+        }
+    ]
+}

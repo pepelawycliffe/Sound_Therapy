@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.github.ashutoshgngwr.noice.debug",
+  "variantName": "processFdroidDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 37,
+      "versionName": "0.15.0",
+      "outputFile": "resources-fdroidDebug.ap_"
+    }
+  ]
+}

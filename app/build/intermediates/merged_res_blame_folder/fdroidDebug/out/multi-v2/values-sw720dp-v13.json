@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\noice\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-2\\files-2.1\\bd13dfed12e5f7a8ec1580b61215c5eb\\mediarouter-1.2.2\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    }
+                }
+            ]
+        }
+    ]
+}

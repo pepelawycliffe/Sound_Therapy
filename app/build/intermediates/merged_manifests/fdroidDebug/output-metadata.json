@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.github.ashutoshgngwr.noice.debug",
+  "variantName": "fdroidDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 37,
+      "versionName": "0.15.0",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}
